@@ -57,7 +57,7 @@ transition-property: padding;}
 .home{
     position: relative;
 min-height: 100vh;
-background: url(home-br.jpg) no-repeat ;
+background: url(aaa.jpg) no-repeat ;
 background-size: cover;
 background-position: center;
 display: flex;
